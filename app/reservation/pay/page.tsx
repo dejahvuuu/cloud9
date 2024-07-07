@@ -26,7 +26,7 @@ function CreateProperty() {
               defaultValue=''
             />
           </div>
-          <SubmitButton text='create rental' className='mt-12' />
+          <SubmitButton text='Pay Reservation' className='mt-12' />
         </FormContainer>
       </div>
     </section>
