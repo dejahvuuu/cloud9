@@ -7,7 +7,11 @@
 npm install
 ```
 
-### 🚀🚀🚀 Coming soon  🚀🚀🚀
+```sh
+npm run dev
+```
 
-- More Documentation
+### 🚀🚀🚀 Documentation 🚀🚀🚀
+
+- More Documentation: See the README in the documentation folder, or if you want to see the demo, see the videos next to it in that folder.
 
