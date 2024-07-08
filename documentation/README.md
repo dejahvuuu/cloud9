@@ -111,10 +111,10 @@ npx prisma studio
 npm install --save @stripe/react-stripe-js @stripe/stripe-js stripe axios
 ```
 
-If you want to test the Stripe connection
-Number: 4242424242424242
-CVC: Any 3 digits
-Date: Any future date
+If you want to test the Stripe connection:
+- Number: 4242424242424242
+- CVC: Any 3 digits
+- Date: Any future date
 
 
 ### 🚀🚀🚀 THE END 🚀🚀🚀
